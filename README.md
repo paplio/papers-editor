@@ -1,5 +1,5 @@
 # papers-editor
-### A simple, very basic text editor written using C++ and Qt5
+#### A simple, very basic text editor written using C++ and Qt5
 ![Screenshot of the application](https://github.com/paplio/papers-editor/blob/master/Papers/Papers%20Screenshot.png)
 
 Papers is a very low-demand text editor, with a simple to understand user-interface, and minimal interruption to the user and his endeavors. 
