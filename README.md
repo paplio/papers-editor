@@ -8,7 +8,7 @@ Papers is written completely in C++.
 
 The Application uses the QT Framework, which helps keep it platform-independent. This means that unlike Microsoft Word, or Sublime Text, or even Notepad, Papers does not change functionality, interface or even its general behaviour and efficiency based on the operating system being used.
 
-#### (Please note that this is a self study project for college)
+#### (Please note that this is a college project)
 
 ### Important snippets of the code
 #### 1) Constructor to initialise Papers object of QT Type and initialise UI for app.
